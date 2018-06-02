@@ -1,19 +1,18 @@
-html {
-    margin:32px;
-}
 body {
+    width:720px;
+    margin:auto;
+    padding:32px;
     background-color:lavender;
     font-family:serif;
     font-size:1.2em;
 }
 h1,h2,h3 {
-    font-family:cursive;
+    font-family:Luminari, Trattatello, fantasy;
     font-weight:800;
 }
 img#moonphase {
     border-radius:50%;
     float:right;
-    width:120px;
 }
 img#textbook {
     width:15%;
