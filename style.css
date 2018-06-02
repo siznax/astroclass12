@@ -1,0 +1,22 @@
+html {
+    margin:32px;
+}
+body {
+    background-color:lavender;
+    font-family:serif;
+    font-size:1.2em;
+}
+h1,h2,h3 {
+    font-family:cursive;
+    font-weight:800;
+}
+img#moonphase {
+    border-radius:50%;
+    float:right;
+    width:120px;
+}
+img#textbook {
+    width:15%;
+    float:right;
+    padding-left:1em;
+}
